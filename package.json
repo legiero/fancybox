@@ -1,5 +1,5 @@
 {
-  "name": "@legiero/fancybox-mspektr",
+  "name": "@legiero/fancybox-ru",
   "description": "Touch enabled, responsive and fully customizable jQuery lightbox script. Ru version by MSPEKTR",
   "version": "3.0.48",
   "main": "./dist/jquery.fancybox.min.js",
