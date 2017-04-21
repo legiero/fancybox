@@ -1,14 +1,13 @@
 {
-  "name": "@fancyapps/fancybox",
-  "description": "Touch enabled, responsive and fully customizable jQuery lightbox script",
+  "name": "@legiero/fancybox-mspektr",
+  "description": "Touch enabled, responsive and fully customizable jQuery lightbox script. Ru version by MSPEKTR",
   "version": "3.0.48",
-  "homepage": "http://fancyapps.com/fancybox/",
   "main": "./dist/jquery.fancybox.min.js",
-  "author": "fancyApps",
+  "author": "legiero",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fancyapps/fancybox.git"
+    "url": "git+https://github.com/legiero/fancybox-mspektr.git"
   },
   "peerDependencies": {
     "jquery": ">=1.9.0"
@@ -40,7 +39,7 @@
     "plugin"
   ],
   "bugs": {
-    "url": "https://github.com/fancyapps/fancybox/issues"
+    "url": "https://github.com/legiero/fancybox-mspektr/issues"
   },
   "directories": {
     "doc": "docs"
